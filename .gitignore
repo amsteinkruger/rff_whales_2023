@@ -1,0 +1,10 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+data
+data_intermediate
+out
+reference
+data_intermediate_california
+out_california
