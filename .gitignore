@@ -4,7 +4,7 @@
 .Ruserdata
 data
 data_intermediate
-out
-reference
 data_intermediate_california
+out
 out_california
+reference
